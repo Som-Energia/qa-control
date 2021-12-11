@@ -1,5 +1,8 @@
 # Som Energia QA Control Pannel
 
+- OpenERP Som Add-on's: 
+[![CircleCI](https://circleci.com/gh/Som-Energia/openerp_som_addons.svg?style=svg)](https://circleci.com/gh/Som-Energia/openerp_som_addons)
+[![Coverage Status](https://coveralls.io/repos/github/Som-Energia/openerp_som_addons/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/openerp_som_addons?branch=main)
 - GenerationKwh
 [![CircleCI](https://circleci.com/gh/Som-Energia/somenergia-generationkwh.svg?style=svg)](https://circleci.com/gh/Som-Energia/somenergia-generationkwh)
 [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/somenergia-generationkwh/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/somenergia-generationkwh?branch=master)
