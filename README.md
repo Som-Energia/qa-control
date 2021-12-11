@@ -1,5 +1,8 @@
 # Som Energia QA Control Pannel
 
+- PowerSMS: 
+[![CircleCI](https://circleci.com/gh/Som-Energia/powersms.svg?style=svg)](https://circleci.com/gh/Som-Energia/powersms)
+[![Coverage Status](https://coveralls.io/repos/github/Som-Energia/powersms/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/powersms?branch=main)
 - OpenData:
   [![CI Status](https://github.com/Som-Energia/somenergia-opendata/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/somenergia-opendata/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/somenergia-opendata/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/somenergia-opendata?branch=master)
