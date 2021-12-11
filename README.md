@@ -1,5 +1,8 @@
 # Som Energia QA Control Pannel
 
+- GenerationKwh
+[![CircleCI](https://circleci.com/gh/Som-Energia/somenergia-generationkwh.svg?style=svg)](https://circleci.com/gh/Som-Energia/somenergia-generationkwh)
+[![Coverage Status](https://coveralls.io/repos/github/Som-Energia/somenergia-generationkwh/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/somenergia-generationkwh?branch=master)
 - PowerSMS: 
 [![CircleCI](https://circleci.com/gh/Som-Energia/powersms.svg?style=svg)](https://circleci.com/gh/Som-Energia/powersms)
 [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/powersms/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/powersms?branch=main)
