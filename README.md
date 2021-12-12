@@ -15,7 +15,7 @@
 - Intercoop:
   [![CI Status](https://github.com/Som-Energia/intercoop/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/intercoop/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/intercoop/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/intercoop?branch=master)
-- Tomatic:
+ - Tomatic:
   [![CI Status](https://github.com/Som-Energia/somenergia-tomatic/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/somenergia-tomatic/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/somenergia-tomatic/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/somenergia-tomatic?branch=master)
 - Sermepa:
