@@ -1,5 +1,8 @@
 # Som Energia QA Control Pannel
 
+- Informe OCSUM: 
+  [![CI Status](https://github.com/Som-Energia/informe-ocsum/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/informe-ocsum/actions/workflows/main.yml)
+  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/informe-ocsum/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/informe-ocsum?branch=main)
 - OpenERP Som Add-on's: 
 [![CircleCI](https://circleci.com/gh/Som-Energia/openerp_som_addons.svg?style=svg)](https://circleci.com/gh/Som-Energia/openerp_som_addons)
 [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/openerp_som_addons/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/openerp_som_addons?branch=main)
