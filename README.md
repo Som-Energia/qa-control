@@ -3,7 +3,7 @@
 -
   [Informe OCSUM](https://github.com/Som-Energia/informe-ocsum): 
   [![CI Status](https://github.com/Som-Energia/informe-ocsum/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/informe-ocsum/actions/workflows/main.yml)
-  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/informe-ocsum/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/informe-ocsum?branch=main)
+  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/informe-ocsum/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/informe-ocsum?branch=master)
 - 
   [OpenERP Som Add-on's](https://github.com/Som-Energia/openerp_som_addons): 
   [![CircleCI](https://circleci.com/gh/Som-Energia/openerp_som_addons.svg?style=svg)](https://circleci.com/gh/Som-Energia/openerp_som_addons)
