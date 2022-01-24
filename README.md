@@ -10,6 +10,7 @@
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/openerp_som_addons/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/openerp_som_addons?branch=main)
 -
   [Generation kWh](https://github.com/Som-Energia/somenergia-generationkwh):
+  [![CI](https://github.com/Som-Energia/somenergia-generationkwh/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/somenergia-generationkwh/actions/workflows/main.yml)
   [![CircleCI](https://circleci.com/gh/Som-Energia/somenergia-generationkwh.svg?style=svg)](https://circleci.com/gh/Som-Energia/somenergia-generationkwh)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/somenergia-generationkwh/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/somenergia-generationkwh?branch=master)
   [![PyPI - Downloads](https://img.shields.io/pypi/dm/somenergia-generationkwh)]()
