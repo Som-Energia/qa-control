@@ -13,7 +13,12 @@
   [![CI](https://github.com/Som-Energia/somenergia-generationkwh/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/somenergia-generationkwh/actions/workflows/main.yml)
   [![CircleCI](https://circleci.com/gh/Som-Energia/somenergia-generationkwh.svg?style=svg)](https://circleci.com/gh/Som-Energia/somenergia-generationkwh)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/somenergia-generationkwh/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/somenergia-generationkwh?branch=master)
-  [![PyPI - Downloads](https://img.shields.io/pypi/dm/somenergia-generationkwh)]()
+  [![PyPI - Downloads](https://img.shields.io/pypi/dm/somenergia-generationkwh)](https://pypi.org/project/somenergia-generationkwh)
+-
+  [Plantmeter](https://github.com/Som-Energia/plantmeter):
+  [![CI](https://github.com/Som-Energia/plantmeter/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/plantmeter/actions/workflows/main.yml)
+  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/plantmeter/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/plantmeter?branch=master)
+  [![PyPI - Downloads](https://img.shields.io/pypi/dm/plantmeter)](https://pypi.org/project/plantmeter)
 - 
   [OpenData](https://github.com/Som-Energia/somenergia-opendata):
   [![CI Status](https://github.com/Som-Energia/somenergia-opendata/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/somenergia-opendata/actions/workflows/main.yml)
@@ -22,7 +27,7 @@
   [Intercoop](https://github.com/Som-Energia/intercoop):
   [![CI Status](https://github.com/Som-Energia/intercoop/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/intercoop/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/intercoop/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/intercoop?branch=master)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/intercoop)
+  [![PyPI - Downloads](https://img.shields.io/pypi/dm/intercoop)](https://pypi.org/project/intercoop)
 -
   [Tomatic](https://github.com/Som-Energia/somenergia-tomatic):
   [![CI Status](https://github.com/Som-Energia/somenergia-tomatic/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/somenergia-tomatic/actions/workflows/main.yml)
@@ -31,14 +36,14 @@
   [Sermepa](https://github.com/Som-Energia/sermepa):
   [![CI Status](https://github.com/Som-Energia/sermepa/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/sermepa/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/sermepa/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/sermepa?branch=master)
-  ![PyPI - Downloads](https://img.shields.io/pypi/dm/sermepa)
+  [![PyPI - Downloads](https://img.shields.io/pypi/dm/sermepa)](https://pypi.org/project/sermepa)
 - 
   [Somutils](https://github.com/Som-Energia/somenergia-utils):
   [![CI Status](https://github.com/Som-Energia/somenergia-utils/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/somenergia-utils/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/somenergia-utils/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/somenergia-utils?branch=master)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/somutils)
+  [![PyPI - Downloads](https://img.shields.io/pypi/dm/somutils)](https://pypi.org/project/somutils)
 - 
   [yamlns](https://github.com/GuifiBaix/python-yamlns):
   [![CI Status](https://github.com/GuifiBaix/python-yamlns/actions/workflows/main.yml/badge.svg)](https://github.com/GuifiBaix/python-yamlns/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/GuifiBaix/python-yamlns/badge.svg?branch=master)](https://coveralls.io/github/GuifiBaix/python-yamlns?branch=master)
-  ![PyPI - Downloads](https://img.shields.io/pypi/dm/yamlns)
+  [![PyPI - Downloads](https://img.shields.io/pypi/dm/yamlns)](https://pypi.org/project/python-yamlns)
