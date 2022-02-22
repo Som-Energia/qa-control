@@ -25,6 +25,7 @@
   [OpenData](https://github.com/Som-Energia/somenergia-opendata):
   [![CI Status](https://github.com/Som-Energia/somenergia-opendata/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/somenergia-opendata/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/somenergia-opendata/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/somenergia-opendata?branch=master)
+  testos depenent de erp-testing deshabilitats
 - 
   [Intercoop](https://github.com/Som-Energia/intercoop):
   [![CI Status](https://github.com/Som-Energia/intercoop/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/intercoop/actions/workflows/main.yml)
@@ -34,6 +35,7 @@
   [Tomatic](https://github.com/Som-Energia/somenergia-tomatic):
   [![CI Status](https://github.com/Som-Energia/somenergia-tomatic/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/somenergia-tomatic/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/somenergia-tomatic/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/somenergia-tomatic?branch=master)
+  testos depenent de erp-testing deshabilitats
 - 
   [Sermepa](https://github.com/Som-Energia/sermepa):
   [![CI Status](https://github.com/Som-Energia/sermepa/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/sermepa/actions/workflows/main.yml)
@@ -55,25 +57,49 @@
   [![Coverage Status](https://coveralls.io/repos/github/GuifiBaix/python-yamlns/badge.svg?branch=master)](https://coveralls.io/github/GuifiBaix/python-yamlns?branch=master)
   [![PyPI - Downloads](https://img.shields.io/pypi/dm/yamlns)](https://pypi.org/project/yamlns)
 
-Not yet under QA
+## Not yet under QA
 
-- [webforms](https://github.com/Som-Energia/webforms):
-- [indicadors-kpis](https://github.com/Som-Energia/somenergia-indicadors-kpis):
-- [oficinavirtual](https://github.com/Som-Energia/oficinavirtual):
-- [infoenergia-dashboard](https://github.com/Som-Energia/infoenergia-dashboard):
+### WebApps
+
+- [webforms](https://github.com/Som-Energia/webforms): testos depenent de la instancia de testing
+- [oficinavirtual](https://github.com/Som-Energia/oficinavirtual): testos depenent de la instancia de testing
+- [infoenergia-dashboard](https://github.com/Som-Energia/infoenergia-dashboard): 
 - [infoenergia-api](https://github.com/Som-Energia/infoenergia-api):
-- [oomakotest](https://github.com/Som-Energia/somenergia-oomakotest):
 - [somenergia-solarprosumers](https://github.com/Som-Energia/somenergia-solarprosumers):
-- [somenergia-scripts](https://github.com/Som-Energia/somenergia-scripts)
-- [decidim](https://github.com/Som-Energia/decidim-som-energia-app):
 - [somexchanger](https://github.com/Som-Energia/somexchanger99):
 - [som-cas](https://github.com/Som-Energia/som-cas):
-- [som-sync-erp](https://github.com/Som-Energia/som_sync_openerp):
-- [massive-importer](https://github.com/Som-Energia/massive_importer);
 - [intranet-ui](https://github.com/Som-Energia/intranet-ui)
-- [dades-mercat](https://github.com/Som-Energia/somenergia-dades-mercat)
 - [somsolet-ui](https://github.com/Som-Energia/somsolet-ui):
 - [somsolet-engineering-ui](https://github.com/Som-Energia/somsolet-engineering-ui):
+- [react-wordpress](https://github.com/Som-Energia/react-wordpress):
+- [webforms-mithril](https://github.com/Som-Energia/webforms-mithril): encara conte el gapminder i la lliberia de widgets que cal separar
+
+### Incubadora
+
+- [plantmonitor](https://github.com/Som-Energia/plantmonitor):
+- [indicadors-kpis](https://github.com/Som-Energia/somenergia-indicadors-kpis): en proces de afegir CI
+- [dades-mercat](https://github.com/Som-Energia/somenergia-dades-mercat)
+
+### ERP
+
+- [oomakotest](https://github.com/Som-Energia/somenergia-oomakotest):
+- [uiqmako-api](https://github.com/Som-Energia/uiqmako-api):
+- [uiqmako-ui](https://github.com/Som-Energia/uiqmako-ui):
+- [somenergia-scripts](https://github.com/Som-Energia/somenergia-scripts)
+- [som-sync-erp](https://github.com/Som-Energia/som_sync_openerp):
+- [massive-importer](https://github.com/Som-Energia/massive_importer);
+- [somenergia-cchmonitor](https://github.com/Som-Energia/somenergia-cchmonitor):
+- [distri-remesa-parser](https://github.com/Som-Energia/distri-remesa-parser):
+- [giscedata_facturacio_indexada_som](https://github.com/Som-Energia/giscedata_facturacio_indexada_som):
+- [oi_hr_holidays_attachment](https://github.com/Som-Energia/oi_hr_holidays_attachment):
+- [erp-empowering](https://github.com/Som-Energia/erp-empowering) (fork de gisce con cambios nuevos)
+
+### Partners
+
+- [decidim](https://github.com/Som-Energia/decidim-som-energia-app):
+- [decidim-centre-ajuda](https://github.com/Som-Energia/decidim-som-energia-centre-ajuda):
+
+
 
 
 
