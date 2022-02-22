@@ -57,8 +57,23 @@
 
 Not yet under QA
 
-- [somenergia-solarprosumers](https://github.com/Som-Energia/somenergia-solarprosumers):
 - [webforms](https://github.com/Som-Energia/webforms):
+- [indicadors-kpis](https://github.com/Som-Energia/somenergia-indicadors-kpis):
+- [oficinavirtual](https://github.com/Som-Energia/oficinavirtual):
+- [infoenergia-dashboard](https://github.com/Som-Energia/infoenergia-dashboard):
+- [infoenergia-api](https://github.com/Som-Energia/infoenergia-api):
+- [oomakotest](https://github.com/Som-Energia/somenergia-oomakotest):
+- [somenergia-solarprosumers](https://github.com/Som-Energia/somenergia-solarprosumers):
+- [somenergia-scripts](https://github.com/Som-Energia/somenergia-scripts)
+- [decidim](https://github.com/Som-Energia/decidim-som-energia-app):
+- [somexchanger](https://github.com/Som-Energia/somexchanger99):
+- [som-cas](https://github.com/Som-Energia/som-cas):
+- [som-sync-erp](https://github.com/Som-Energia/som_sync_openerp):
+- [massive-importer](https://github.com/Som-Energia/massive_importer);
+- [intranet-ui](https://github.com/Som-Energia/intranet-ui)
+- [dades-mercat](https://github.com/Som-Energia/somenergia-dades-mercat)
+- [somsolet-ui](https://github.com/Som-Energia/somsolet-ui):
+- [somsolet-engineering-ui](https://github.com/Som-Energia/somsolet-engineering-ui):
 
 
 
