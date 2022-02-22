@@ -74,12 +74,14 @@
 - [react-wordpress](https://github.com/Som-Energia/react-wordpress):
 - [webforms-mithril](https://github.com/Som-Energia/webforms-mithril): deprecat pero encara conte el gapminder i la lliberia de widgets que cal separar
 - [webforms-angular](https://github.com/Som-Energia/webforms-angular): deprecat marjorment pero conte el javascript dels comptadors de la web
+- [helpscout-webhooks](https://github.com/Som-Energia/helpscout_webhooks):
 
 ### Incubadora
 
 - [plantmonitor](https://github.com/Som-Energia/plantmonitor):
 - [indicadors-kpis](https://github.com/Som-Energia/somenergia-indicadors-kpis): en proces de afegir CI
 - [dades-mercat](https://github.com/Som-Energia/somenergia-dades-mercat)
+- [invisible-friend](https://github.com/Som-Energia/invisible-friend)
 
 ### ERP
 
@@ -91,9 +93,13 @@
 - [massive-importer](https://github.com/Som-Energia/massive_importer);
 - [somenergia-cchmonitor](https://github.com/Som-Energia/somenergia-cchmonitor):
 - [distri-remesa-parser](https://github.com/Som-Energia/distri-remesa-parser):
+- [pool-transport](https://github.com/Som-Energia/pool_transport)
 - [giscedata_facturacio_indexada_som](https://github.com/Som-Energia/giscedata_facturacio_indexada_som):
 - [oi_hr_holidays_attachment](https://github.com/Som-Energia/oi_hr_holidays_attachment):
 - [erp-empowering](https://github.com/Som-Energia/erp-empowering) (fork de gisce con cambios nuevos)
+- [pg tools](https://github.com/Som-Energia/pg_tools)
+- [odoo-role](https://github.com/Som-Energia/odoo-role): fork de coopdevs
+
 
 ### Partners
 
