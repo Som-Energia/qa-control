@@ -63,6 +63,7 @@
 
 - [webforms](https://github.com/Som-Energia/webforms): testos depenent de la instancia de testing
 - [oficinavirtual](https://github.com/Som-Energia/oficinavirtual): testos depenent de la instancia de testing
+- [oficinavirtual-ui](https://github.com/Som-Energia/oficinavirtual-ui):
 - [infoenergia-dashboard](https://github.com/Som-Energia/infoenergia-dashboard): 
 - [infoenergia-api](https://github.com/Som-Energia/infoenergia-api):
 - [somenergia-solarprosumers](https://github.com/Som-Energia/somenergia-solarprosumers):
@@ -75,13 +76,17 @@
 - [webforms-mithril](https://github.com/Som-Energia/webforms-mithril): deprecat pero encara conte el gapminder i la lliberia de widgets que cal separar
 - [webforms-angular](https://github.com/Som-Energia/webforms-angular): deprecat marjorment pero conte el javascript dels comptadors de la web
 - [helpscout-webhooks](https://github.com/Som-Energia/helpscout_webhooks):
+- [gestor-absencies](https://github.com/Som-Energia/gestor_absencies)
+- [gestor-absencies-ui](https://github.com/Som-Energia/gestor-absencies-ui):
 
 ### Incubadora
 
 - [plantmonitor](https://github.com/Som-Energia/plantmonitor):
 - [indicadors-kpis](https://github.com/Som-Energia/somenergia-indicadors-kpis): en proces de afegir CI
 - [dades-mercat](https://github.com/Som-Energia/somenergia-dades-mercat)
+- [redasher](https://github.com/Som-Energia/redasher):
 - [invisible-friend](https://github.com/Som-Energia/invisible-friend)
+- [somenergia-dataexports](https://github.com/Som-Energia/somenergia-dataexports): potser esta mogut tot a opendata i el podem deprecar
 
 ### ERP
 
@@ -99,14 +104,20 @@
 - [erp-empowering](https://github.com/Som-Energia/erp-empowering) (fork de gisce con cambios nuevos)
 - [pg tools](https://github.com/Som-Energia/pg_tools)
 - [odoo-role](https://github.com/Som-Energia/odoo-role): fork de coopdevs
-
+- [scriptlauncher](https://github.com/Som-Energia/scriptlauncher)
+- [cchloader](https://github.com/Som-Energia/cchloader):
+- [powersms](https://github.com/Som-Energia/powersms):
+- [empowering-scripts](https://github.com/Som-Energia/empowering-scripts)
+- [somenergia-devupdater](https://github.com/Som-Energia/somenergia-devupdater): deprecat?
 
 ### Partners
 
 - [decidim](https://github.com/Som-Energia/decidim-som-energia-app):
 - [decidim-centre-ajuda](https://github.com/Som-Energia/decidim-som-energia-centre-ajuda):
 
+### Forks de partners
 
-
-
+- [erpppek-wst](https://github.com/Som-Energia/erppeek_wst) gisce
+- [devenv](https://github.com/Som-Energia/devenv) coopdevs
+- [lleida.net api](https://github.com/Som-Energia/lleida_net_api) gisce
 
