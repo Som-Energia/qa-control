@@ -95,6 +95,7 @@
 - [redasher](https://github.com/Som-Energia/redasher):
 - [invisible-friend](https://github.com/Som-Energia/invisible-friend)
 - [somenergia-dataexports](https://github.com/Som-Energia/somenergia-dataexports): potser esta mogut tot a opendata i el podem deprecar
+- [rescoopplus](https://github.com/Som-Energia/rescoopplus):
 
 ### ERP
 
