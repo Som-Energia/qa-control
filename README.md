@@ -66,10 +66,12 @@
 - [oficinavirtual-ui](https://github.com/Som-Energia/oficinavirtual-ui):
 - [infoenergia-dashboard](https://github.com/Som-Energia/infoenergia-dashboard): 
 - [infoenergia-api](https://github.com/Som-Energia/infoenergia-api):
-- [somenergia-solarprosumers](https://github.com/Som-Energia/somenergia-solarprosumers):
+- [infoenergia-scripts](https://github.com/Som-Energia/infoenergia-scripts):
+- [somenergia-infoenergia](https://github.com/Som-Energia/somenergia-infoenergia):
+- [shera](https://github.com/Som-Energia/shera):
 - [somexchanger](https://github.com/Som-Energia/somexchanger99):
-- [som-cas](https://github.com/Som-Energia/som-cas):
-- [intranet-ui](https://github.com/Som-Energia/intranet-ui)
+- [intranet-ui](https://github.com/Som-Energia/intranet-ui):
+- [somenergia-solarprosumers](https://github.com/Som-Energia/somenergia-solarprosumers):
 - [somsolet-ui](https://github.com/Som-Energia/somsolet-ui):
 - [somsolet-engineering-ui](https://github.com/Som-Energia/somsolet-engineering-ui):
 - [react-wordpress](https://github.com/Som-Energia/react-wordpress):
@@ -78,10 +80,16 @@
 - [helpscout-webhooks](https://github.com/Som-Energia/helpscout_webhooks):
 - [gestor-absencies](https://github.com/Som-Energia/gestor_absencies)
 - [gestor-absencies-ui](https://github.com/Som-Energia/gestor-absencies-ui):
+- [gestor-absencies-frontend](https://github.com/Som-Energia/gestor_absencies_frontend)
+- [decidim-cas-client](https://github.com/Som-Energia/decidim-cas-client):
+- [som-cas](https://github.com/Som-Energia/som-cas):
+- [codit-devise-cas-authenticate](https://github.com/Som-Energia/codit-devise-cas-authenticable)
+- [somenergia-weblate-scripts](https://github.com/Som-Energia/somenergia-weblate-scripts):
 
 ### Incubadora
 
 - [plantmonitor](https://github.com/Som-Energia/plantmonitor):
+- [plantmonitor-api](https://github.com/Som-Energia/plantmonitor-api)
 - [indicadors-kpis](https://github.com/Som-Energia/somenergia-indicadors-kpis): en proces de afegir CI
 - [dades-mercat](https://github.com/Som-Energia/somenergia-dades-mercat)
 - [redasher](https://github.com/Som-Energia/redasher):
@@ -106,9 +114,12 @@
 - [odoo-role](https://github.com/Som-Energia/odoo-role): fork de coopdevs
 - [scriptlauncher](https://github.com/Som-Energia/scriptlauncher)
 - [cchloader](https://github.com/Som-Energia/cchloader):
+- [cchuploader](https://github.com/Som-Energia/cchuploader):
 - [powersms](https://github.com/Som-Energia/powersms):
 - [empowering-scripts](https://github.com/Som-Energia/empowering-scripts)
 - [somenergia-devupdater](https://github.com/Som-Energia/somenergia-devupdater): deprecat?
+- [oorq](https://github.com/Som-Energia/oorq): fork de gisce
+- [emili](https://github.com/Som-Energia/emili):
 
 ### Partners
 
@@ -117,7 +128,10 @@
 
 ### Forks de partners
 
-- [erpppek-wst](https://github.com/Som-Energia/erppeek_wst) gisce
-- [devenv](https://github.com/Som-Energia/devenv) coopdevs
-- [lleida.net api](https://github.com/Som-Energia/lleida_net_api) gisce
+- [erpppek-wst](https://github.com/Som-Energia/erppeek_wst): fork gisce
+- [devenv](https://github.com/Som-Energia/devenv): fork coopdevs
+- [lleida.net api](https://github.com/Som-Energia/lleida_net_api): fork gisce
+- [amoniak](https://github.com/Som-Energia/amoniak): fork gisce
+- [empowering](https://github.com/Som-Energia/empowering): fork gisce
+- [ws_transactions](https://github.com/Som-Energia/ws_transactions): fork gisce (merged)
 
