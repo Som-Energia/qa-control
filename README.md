@@ -1,9 +1,7 @@
 # Som Energia QA Control Pannel
 
--
-  [Informe OCSUM](https://github.com/Som-Energia/informe-ocsum): 
-  [![CI Status](https://github.com/Som-Energia/informe-ocsum/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/informe-ocsum/actions/workflows/main.yml)
-  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/informe-ocsum/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/informe-ocsum?branch=master)
+- [webforms-ui]
+  [![cypress webforms-ui](https://github.com/Som-Energia/webforms-ui/actions/workflows/cypress.yml/badge.svg)](https://github.com/Som-Energia/webforms-ui/actions/workflows/cypress.yml)
 - 
   [OpenERP Som Add-on's](https://github.com/Som-Energia/openerp_som_addons): 
   [![CircleCI](https://circleci.com/gh/Som-Energia/openerp_som_addons.svg?style=svg)](https://circleci.com/gh/Som-Energia/openerp_som_addons)
@@ -19,6 +17,10 @@
   [![CI](https://github.com/Som-Energia/plantmeter/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/plantmeter/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/plantmeter/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/plantmeter?branch=master)
   [![PyPI - Downloads](https://img.shields.io/pypi/dm/plantmeter)](https://pypi.org/project/plantmeter)
+-
+  [Informe OCSUM](https://github.com/Som-Energia/informe-ocsum): 
+  [![CI Status](https://github.com/Som-Energia/informe-ocsum/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/informe-ocsum/actions/workflows/main.yml)
+  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/informe-ocsum/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/informe-ocsum?branch=master)
 - 
   [OpenData](https://github.com/Som-Energia/somenergia-opendata):
   [![CI Status](https://github.com/Som-Energia/somenergia-opendata/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/somenergia-opendata/actions/workflows/main.yml)
@@ -52,3 +54,11 @@
   [![CI Status](https://github.com/GuifiBaix/python-yamlns/actions/workflows/main.yml/badge.svg)](https://github.com/GuifiBaix/python-yamlns/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/GuifiBaix/python-yamlns/badge.svg?branch=master)](https://coveralls.io/github/GuifiBaix/python-yamlns?branch=master)
   [![PyPI - Downloads](https://img.shields.io/pypi/dm/yamlns)](https://pypi.org/project/yamlns)
+
+Not yet under QA
+
+- [somenergia-solarprosumers](https://github.com/Som-Energia/somenergia-solarprosumers):
+- [webforms](https://github.com/Som-Energia/webforms):
+
+
+
