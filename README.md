@@ -72,7 +72,8 @@
 - [somsolet-ui](https://github.com/Som-Energia/somsolet-ui):
 - [somsolet-engineering-ui](https://github.com/Som-Energia/somsolet-engineering-ui):
 - [react-wordpress](https://github.com/Som-Energia/react-wordpress):
-- [webforms-mithril](https://github.com/Som-Energia/webforms-mithril): encara conte el gapminder i la lliberia de widgets que cal separar
+- [webforms-mithril](https://github.com/Som-Energia/webforms-mithril): deprecat pero encara conte el gapminder i la lliberia de widgets que cal separar
+- [webforms-angular](https://github.com/Som-Energia/webforms-angular): deprecat marjorment pero conte el javascript dels comptadors de la web
 
 ### Incubadora
 
