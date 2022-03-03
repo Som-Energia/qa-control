@@ -103,8 +103,8 @@
 - [uiqmako-api](https://github.com/Som-Energia/uiqmako-api):
 - [uiqmako-ui](https://github.com/Som-Energia/uiqmako-ui):
 - [somenergia-scripts](https://github.com/Som-Energia/somenergia-scripts)
-- [som-sync-erp](https://github.com/Som-Energia/som_sync_openerp):
-- [massive-importer](https://github.com/Som-Energia/massive_importer);
+- [som-sync-erp](https://github.com/Som-Energia/som_sync_openerp): En procés de migracio a openerp_som_addons
+- [massive-importer](https://github.com/Som-Energia/massive_importer): En procés de creació de módul a openerp_som_addons
 - [somenergia-cchmonitor](https://github.com/Som-Energia/somenergia-cchmonitor):
 - [distri-remesa-parser](https://github.com/Som-Energia/distri-remesa-parser):
 - [pool-transport](https://github.com/Som-Energia/pool_transport)
