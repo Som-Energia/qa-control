@@ -49,6 +49,17 @@ Then try to differentiate direct dependencies and indirect.
     'zipp<2' if py2 else '' # Py2, indirect of pytest
 ```
 
+As requirements:
+```
+pytest<5; python_version < '3.0
+pytest; python_version >= '3.0
+zipp<2; python_version < '3.0
+```
+
+Sadly, if the project `setup.py` takes a `requirements.txt` file which such a syntax, it won't work on a `setup.py`
+since the syntax is not working in all versions of `setuptools`.
+
+
 ### How to investagate a new Py2 dropping library?
 
 Local development environments usually do not detect such incompatibilities
