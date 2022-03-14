@@ -64,7 +64,7 @@ Only `setuptools<45` supported by Py2.
 In this case, the recommended procedure is to provide two files,
 and load one or the other conditionally.
 
-### How to investagate a new Py2 dropping library?
+### How to discover a new Py2 dropping library?
 
 Local development environments usually do not detect such incompatibilities
 because if a library is installed it won't be updated by default.
