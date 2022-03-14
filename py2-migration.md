@@ -51,9 +51,9 @@ Then try to differentiate direct dependencies and indirect.
 
 As requirements:
 ```
-pytest<5; python_version < '3.0
-pytest; python_version >= '3.0
-zipp<2; python_version < '3.0
+pytest<5; python_version < '3.0'
+pytest; python_version >= '3.0'
+zipp<2; python_version < '3.0'
 ```
 
 Sadly, if the project `setup.py` takes a `requirements.txt` file which such a syntax, it won't work on a `setup.py`
