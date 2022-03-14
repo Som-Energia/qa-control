@@ -56,9 +56,13 @@ pytest; python_version >= '3.0'
 zipp<2; python_version < '3.0'
 ```
 
-Sadly, if the project `setup.py` takes a `requirements.txt` file which such a syntax, it won't work on a `setup.py`
-since the syntax is not working in all versions of `setuptools`.
+Sadly, if the project's `setup.py` takes the `requirements.txt` file to fill the `install_requires`,
+using those conditionals in `requirements.txt` will break the `setup.py`.
+Setuptools added such conditionals on a version which is not suported by Python 2. 
+Only `setuptools<45` supported by Py2.
 
+In this case, the recommended procedure is to provide two files,
+and load one or the other conditionally.
 
 ### How to investagate a new Py2 dropping library?
 
