@@ -1,6 +1,6 @@
 # Python 2
 
-## Last Version of libraries still supporting by Python2
+## Last Version of libraries still supporting Python2
 
 The following libraries have stopped supporting Py2.
 After dropping Py2 support, Pypi selects new incompatible versions to be instal·led in Py2 enviroments.
