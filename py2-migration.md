@@ -33,7 +33,7 @@ in order to stop this from happening you should restrain their versions, conditi
 
 ### How to include that?
 
-In `setup.py`:
+#### In `setup.py`
 
 ```pythonimport sys
 py2 = sys.version_info<(3,)                                                       
@@ -49,15 +49,16 @@ Then try to differentiate direct dependencies and indirect.
     'zipp<2' if py2 else '' # Py2, indirect of pytest
 ```
 
-As requirements:
+#### As requirements
 ```
 pytest<5; python_version < '3.0'
 pytest; python_version >= '3.0'
 zipp<2; python_version < '3.0'
 ```
 
-Sadly, if the project's `setup.py` takes the `requirements.txt` file to fill the `install_requires`,
-using those conditionals in `requirements.txt` will break the `setup.py`.
+If the project's `setup.py` takes the `requirements.txt` file to fill the `install_requires`,
+using those conditionals in `requirements.txt` will break the `setup.py`!!!
+
 Setuptools added such conditionals on a version which is not suported by Python 2. 
 Only `setuptools<45` supported by Py2.
 
