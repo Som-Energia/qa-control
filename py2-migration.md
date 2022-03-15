@@ -6,6 +6,7 @@ Py2 support was dropped by Pypi a while ago.
 Since then, when installing packages in a Py2 environment,
 pip does not even care to pick a version of the library that works on Py2.
 It just installs the latest available for Py3.
+
 So, while we still have to support those legacy enviroments,
 we'll have to pin the versions of our dependencies
 and **even the indirect dependencies**.
@@ -38,13 +39,12 @@ and the required version pinning to get them working.
 
 ### Annotate your pinned dependencies
 
-Annotating the reason for a pinned dependency is always nice.
-This way your coworkers will feel empowered to remove the pinning when the reason does not apply anymore.
+Annotating the reason for a pinned dependency lets your coworkers feel empowered to remove the pinning when the reason does not apply anymore.
 In this case, we suggest using "Py2" to annotate those pinnings, so it could be dropped when Py2 is no longer supported.
 
 For the same reason, it is useful to annotate whether it is a direct or indirect dependency.
-Whe nwe will drop Py2, indirect dependencies could be fully dropped,
-while, direct dependencies just will need to clear the pinning.
+For a direct dependency, you just drop the pinning,
+but indirect dependencies should be fully dropped once in Py3.
 
 ### How to include that?
 
@@ -76,6 +76,8 @@ since this syntax of conditional dependencies is not supported by `setuptools` v
 In this case you coul do a third approach.
 
 #### As requirements also used in setup.py
+
+In the case you reuse the `dependencies.txt` from `setup.py` to avoid duplication:
 
 - Place your regular dependencies in requirements.txt
 ```
