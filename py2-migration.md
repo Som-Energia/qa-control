@@ -7,7 +7,8 @@ Since then, when installing packages in a Py2 environment,
 pip does not even care to pick a version of the library that works on Py2.
 It just installs the latest available for Py3.
 So, while we still have to support those legacy enviroments,
-we'll have to pin the versions of the libraries.
+we'll have to pin the versions of our dependencies
+and **even the indirect dependencies**.
 
 The following list are the libraries we found stopped supporting Py2,
 and the required version pinning to get them working.
