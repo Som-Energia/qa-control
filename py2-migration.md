@@ -101,23 +101,22 @@ with open(requirements_file, 'r') as req:
 ```
 
 
-### How to get the pinning version of a new library dropping Py2?
+### How to know the pinned version for a new library dropping Py2?
 
 Local development environments usually do not detect such incompatibilities
 because if a library is installed it won't be updated by default.
 In order to trigger and clean those errors you should use a clean environment.
-
 
 - Run the line
 ```bash 
 $ deactivate ; rmvirtualenv py2; mkvirtualenv --python $(which python2) py2; pip install pipdeptree; ./setup.py develop
 ```
 - Look in the log for the last library starting its installation, is usually the problematic one.
-- Run pipdeptree to see which packages trigger the installation of the problematic one, in order to annotate any indirect
+- Run pipdeptree to see which packages trigger the installation of the problematic one, in order to annotate indirect dependency path
 - Search the package in https://pypi.org
-- Go to the repository and the CHANGES file
-- Look for "Python 2" or "Python" in order to see which is the last version suporting Python 2.
-- Start over again
+- Go to the repository and open the CHANGES file
+- Tip: Look for "Python 2" or "Python" in order to see which is the last version suporting Python 2.
+- Start over again until it fully works
 
 
 
