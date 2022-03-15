@@ -2,11 +2,15 @@
 
 ## Dependencies: Last Version still supporting Python2
 
-The following libraries have stopped supporting Py2.
-After dropping Py2 support, Pypi selects new incompatible versions to be instal·led in Py2 enviroments.
-making the installation fail or, worse, failing on run-time.
-While we are still supporting those legacy environments,
-in order to stop this from happening you should restrain their versions, conditionally to being in a py2 env.
+Py2 support was dropped by Pypi a while ago.
+Since then, when installing packages in a Py2 environment,
+pip does not even care to pick a version of the library that works on Py2.
+It just installs the latest available for Py3.
+So, while we still have to support those legacy enviroments,
+we'll have to pin the versions of the libraries.
+
+The following list are the libraries we found stopped supporting Py2,
+and the required version pinning to get them working.
 
 ```python
 'pymongo<4' # Py2, indirect flask-pymongo
@@ -30,6 +34,16 @@ in order to stop this from happening you should restrain their versions, conditi
 'packaging<21' # Py2, indirect importlib-metadata, zipp
 'coverage<6' # Py2, indirect of pytest-cov
 ```
+
+### Annotate your pinned dependencies
+
+Annotating the reason for a pinned dependency is always nice.
+This way your coworkers will feel empowered to remove the pinning when the reason does not apply anymore.
+In this case, we suggest using "Py2" to annotate those pinnings, so it could be dropped when Py2 is no longer supported.
+
+For the same reason, it is useful to annotate whether it is a direct or indirect dependency.
+Whe nwe will drop Py2, indirect dependencies could be fully dropped,
+while, direct dependencies just will need to clear the pinning.
 
 ### How to include that?
 
@@ -79,7 +93,7 @@ requirements_file = 'requirements-py2.txt' if py2 else 'requirements.txt'
 ```
 
 
-### How to discover a new Py2 dropping library?
+### How to get the pinning version of a new library dropping Py2?
 
 Local development environments usually do not detect such incompatibilities
 because if a library is installed it won't be updated by default.
