@@ -60,7 +60,7 @@ Caution, if your `setup.py` reads `requirements.txt` in order to fill `install_r
 since this syntax of conditional dependencies is not supported by `setuptools` v44, the last one available for Py2.
 In this case you coul do a third approach.
 
-#### As requirements used in setup.py
+#### As requirements also used in setup.py
 
 - Place your regular dependencies in requirements.txt
 ```
