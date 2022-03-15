@@ -50,7 +50,8 @@ but indirect dependencies should be fully dropped once in Py3.
 
 #### In `setup.py`
 
-```pythonimport sys
+```python
+import sys
 py2 = sys.version_info<(3,)                                                       
 ```
 
@@ -79,11 +80,11 @@ In this case you coul do a third approach.
 
 In the case you reuse the `dependencies.txt` from `setup.py` to avoid duplication:
 
-- Place your regular dependencies in requirements.txt
+- Place your regular dependencies in `requirements.txt`
 ```
 pytest
 ```
-- Place your constrained dependencies in requirements-py2.txt
+- Place the pinned version in `requirements-py2.txt`
 ```
 pytest<5 # Py2
 zipp<2 # Py2, indirect pytest
@@ -91,8 +92,12 @@ zipp<2 # Py2, indirect pytest
 
 - Modify the `setup.py` to load one or another depending on the current python version.
 ```
+import sys
+py2 = sys.version_info<(3,)                                                       
 requirements_file = 'requirements-py2.txt' if py2 else 'requirements.txt'
-# and then do what you did with requirements.txt
+requirements = file(requirements_file).open().readlines()
+with open(requirements_file, 'r') as req:
+    install_requires = [x.strip() for x in req.readlines()]
 ```
 
 
