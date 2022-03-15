@@ -65,13 +65,11 @@ In this case you coul do a third approach.
 - Place your regular dependencies in requirements.txt
 ```
 pytest
-...
 ```
 - Place your constrained dependencies in requirements-py2.txt
 ```
 pytest<5 # Py2
 zipp<2 # Py2, indirect pytest
-...
 ```
 
 - Modify the `setup.py` to load one or another depending on the current python version.
