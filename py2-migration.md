@@ -56,14 +56,30 @@ pytest; python_version >= '3.0'
 zipp<2; python_version < '3.0'
 ```
 
-If the project's `setup.py` takes the `requirements.txt` file to fill the `install_requires`,
-using those conditionals in `requirements.txt` will break the `setup.py`!!!
+Caution, if your `setup.py` reads `requirements.txt` in order to fill `install_requires`, this would break `setup.py`,
+since this syntax of conditional dependencies is not supported by `setuptools` v44, the last one available for Py2.
+In this case you coul do a third approach.
 
-Setuptools added such conditionals on a version which is not suported by Python 2. 
-Only `setuptools<45` supported by Py2.
+#### As requirements used in setup.py
 
-In this case, the recommended procedure is to provide two files,
-and load one or the other conditionally.
+- Place your regular dependencies in requirements.txt
+```
+pytest
+...
+```
+- Place your constrained dependencies in requirements-py2.txt
+```
+pytest<5 # Py2
+zipp<2 # Py2, indirect pytest
+...
+```
+
+- Modify the `setup.py` to load one or another depending on the current python version.
+```
+requirements_file = 'requirements-py2.txt' if py2 else 'requirements.txt'
+# and then do what you did with requirements.txt
+```
+
 
 ### How to discover a new Py2 dropping library?
 
