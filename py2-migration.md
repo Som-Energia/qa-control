@@ -35,6 +35,7 @@ and the required version pinning to get them working.
 'zipp<2' # Py2, indirect of pytest
 'packaging<21' # Py2, indirect importlib-metadata, zipp
 'coverage<6' # Py2, indirect of pytest-cov
+'python-dotenv<19' # Py2
 ```
 
 ### Annotate your pinned dependencies
