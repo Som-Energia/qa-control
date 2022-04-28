@@ -15,27 +15,39 @@ The following list are the libraries we found stopped supporting Py2,
 and the required version pinning to get them working.
 
 ```python
-'pymongo<4', # Py2, indirect flask-pymongo
-'redis<4', # Py2, indirect rq
-'rq<1.4.0', # Py2, indirect amoniak
-'contextlib2<21', # Py2, indirect by many libs
-'marshmallow<3', # Py2, indirect empowering
 'arrow<1', # Py2, indirect empowering
+'babel<=2.9.0', # Py2, indirect of flask-babel
+'cachelib<0.2', # Py2
 'click<8', # Py2, indirect pytest, flask
-'MarkupSafe<2', # Py2, indirect jinja2 <- flask
-'numpy<1.17', # Py2
+'configparser<5', # Py2, indirect of importlib-metadata, of pytest
+'connexion<2.5.0', # Py2
+'contextlib2<21', # Py2, indirect by many libs
+'coverage<6', # Py2, indirect of pytest-cov
 'decorator<5', # Py2
-'tqdm<4.63.0', # Py2, depends on import-resources, not supported by py2
+'flask<2', # Py2
+'flask-babel<2', # Py2
+'importlib-metadata<3', # Py2, indirect of pytest
+'jsonschema<4', # Py2
+'MarkupSafe<2', # Py2, indirect jinja2 <- flask
+'marshmallow<3', # Py2, indirect empowering
+'mock<4', # Py2, indirect from pytest
+'numpy<1.17', # Py2
+'openapi-schema-validator<0.2', # Py2, indirect of openapi-spec-validator
+'openapi-spec-validator<0.4', # Py2, indirect of connexion
+'packaging<21', # Py2, indirect importlib-metadata, zipp
+'platformdirs<2.1', # Py2, indirect of zipp
+'pymongo<4', # Py2, indirect flask-pymongo
+'pyparsing<3', # Py2, indirect of packaging, of pytest
+'pyrsistent<0.17', # Py2, indirect of jsonschema
 'pytest<5', # Py2 support dropped
 'pytest-cov<3', # Py2
-'mock<4', # Py2, indirect from pytest
-'importlib-metadata<3', # Py2, indirect of pytest
-'configparser<5', # Py2, indirect of importlib-metadata, of pytest
-'pyparsing<3', # Py2, indirect of packaging, of pytest
-'zipp<2', # Py2, indirect of pytest
-'packaging<21', # Py2, indirect importlib-metadata, zipp
-'coverage<6', # Py2, indirect of pytest-cov
 'python-dotenv<0.19', # Py2
+'pyyaml<6', # Py2, indirect of many
+'redis<4', # Py2, indirect rq
+'rq<1.4.0', # Py2, indirect amoniak
+'tqdm<4.63.0', # Py2, depends on import-resources, not supported by py2
+'yamlns>=0.3', # Earlier not Py2 compatible
+'zipp<2', # Py2, indirect of pytest
 ```
 
 ### Annotate your pinned dependencies
