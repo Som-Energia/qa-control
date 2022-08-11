@@ -4,7 +4,7 @@
   [![cypress webforms-ui](https://github.com/Som-Energia/webforms-ui/actions/workflows/cypress.yml/badge.svg)](https://github.com/Som-Energia/webforms-ui/actions/workflows/cypress.yml)
 - 
   [OpenERP Som Add-on's](https://github.com/Som-Energia/openerp_som_addons): 
-  [![CircleCI](https://circleci.com/gh/Som-Energia/openerp_som_addons.svg?style=svg)](https://circleci.com/gh/Som-Energia/openerp_som_addons)
+  [![CI](https://github.com/Som-Energia/openerp_som_addons/actions/workflows/integration_config.yml/badge.svg)](https://github.com/Som-Energia/openerp_som_addons/actions/workflows/integration_config.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/openerp_som_addons/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/openerp_som_addons?branch=main)
 -
   [Generation kWh](https://github.com/Som-Energia/somenergia-generationkwh):
