@@ -57,6 +57,8 @@
   [![Coverage Status](https://coveralls.io/repos/github/GuifiBaix/python-yamlns/badge.svg?branch=master)](https://coveralls.io/github/GuifiBaix/python-yamlns?branch=master)
   [![PyPI - Downloads](https://img.shields.io/pypi/dm/yamlns)](https://pypi.org/project/yamlns)
 
+- [uiqmako-api](https://github.com/Som-Energia/uiqmako-api): [![CI](https://github.com/Som-Energia/uiqmako-api/actions/workflows/integration_config.yml/badge.svg)](https://github.com/Som-Energia/uiqmako-api/actions/workflows/integration_config.yml)
+
 ## Not yet under QA
 
 ### WebApps
@@ -100,7 +102,6 @@
 ### ERP
 
 - [oomakotest](https://github.com/Som-Energia/somenergia-oomakotest):
-- [uiqmako-api](https://github.com/Som-Energia/uiqmako-api):
 - [uiqmako-ui](https://github.com/Som-Energia/uiqmako-ui):
 - [somenergia-scripts](https://github.com/Som-Energia/somenergia-scripts)
 - [som-sync-erp](https://github.com/Som-Energia/som_sync_openerp): En procés de migracio a openerp_som_addons
