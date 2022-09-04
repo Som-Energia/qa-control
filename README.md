@@ -58,6 +58,7 @@
   [![PyPI - Downloads](https://img.shields.io/pypi/dm/yamlns)](https://pypi.org/project/yamlns)
 
 - [uiqmako-api](https://github.com/Som-Energia/uiqmako-api): [![CI](https://github.com/Som-Energia/uiqmako-api/actions/workflows/integration_config.yml/badge.svg)](https://github.com/Som-Energia/uiqmako-api/actions/workflows/integration_config.yml)
+  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/uiqmako-api/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/uiqmako-api?branch=main)
 
 ## Not yet under QA
 
