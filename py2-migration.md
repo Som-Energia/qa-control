@@ -16,6 +16,7 @@ and the required version pinning to get them working.
 
 ```python
 'arrow<1', # Py2, indirect empowering
+'attrs<22', # Py2, indirect of pytest
 'babel<=2.9.0', # Py2, indirect of flask-babel
 'cachelib<0.2', # Py2
 'click<8', # Py2, indirect pytest, flask
@@ -23,6 +24,8 @@ and the required version pinning to get them working.
 'connexion<2.5.0', # Py2
 'contextlib2<21', # Py2, indirect by many libs
 'coverage<6', # Py2, indirect of pytest-cov
+'coveralls<2.0', # Py2, direct dependency of the CI
+'cryptography<3.4', # Py2, indirect of coveralls
 'decorator<5', # Py2
 'flask<2', # Py2
 'flask-babel<2', # Py2
@@ -37,6 +40,7 @@ and the required version pinning to get them working.
 'packaging<21', # Py2, indirect importlib-metadata, zipp
 'platformdirs<2.1', # Py2, indirect of zipp
 'pymongo<4', # Py2, indirect flask-pymongo
+'pyopenssl<22', # Py2,  indirect of cryptography
 'pyparsing<3', # Py2, indirect of packaging, of pytest
 'pyrsistent<0.17', # Py2, indirect of jsonschema
 'pytest<5', # Py2 support dropped
@@ -44,15 +48,12 @@ and the required version pinning to get them working.
 'python-dotenv<0.19', # Py2
 'pyyaml<6', # Py2, indirect of many
 'redis<4', # Py2, indirect rq
+'requests<2.28', # Py2, indirect of zipp, of pytest
 'rq<1.4.0', # Py2, indirect amoniak
+'sentry-sdk<1.5', # Py2
 'tqdm<4.63.0', # Py2, depends on import-resources, not supported by py2
 'yamlns>=0.3', # Earlier not Py2 compatible
 'zipp<2', # Py2, indirect of pytest
-'requests<2.28', # Py2, indirect of zipp, of pytest
-'coveralls<2.0', # Py2, direct dependency of the CI
-'cryptography<3.4', # Py2, indirect of coveralls
-'pyopenssl<22', # Py2, indirect of cryptography
-'attrs<22', # Py2, indirect of pytest
 ```
 
 ### Annotate your pinned dependencies
