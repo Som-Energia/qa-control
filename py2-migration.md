@@ -52,6 +52,7 @@ and the required version pinning to get them working.
 'coveralls<2.0', # Py2, direct dependency of the CI
 'cryptography<3.4', # Py2, indirect of coveralls
 'pyopenssl<22', # Py2, indirect of cryptography
+'attrs<22', # Py2, indirect of pytest
 ```
 
 ### Annotate your pinned dependencies
