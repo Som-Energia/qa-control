@@ -48,6 +48,10 @@ and the required version pinning to get them working.
 'tqdm<4.63.0', # Py2, depends on import-resources, not supported by py2
 'yamlns>=0.3', # Earlier not Py2 compatible
 'zipp<2', # Py2, indirect of pytest
+'requests<2.28', # Py2, indirect of zipp, of pytest
+'coveralls<2.0', # Py2, direct dependency of the CI
+'cryptography<3.4', # Py2, indirect of coveralls
+'pyopenssl<22', # Py2, indirect of cryptography
 ```
 
 ### Annotate your pinned dependencies
