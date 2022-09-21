@@ -1,5 +1,9 @@
 # Som Energia QA Control Pannel
 
+- [webforms](https://github.com/Som-Energia/webforms): 
+[![CI](https://github.com/Som-Energia/webforms/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/webforms/actions/workflows/main.yml)
+  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/webforms/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/webforms?branch=main)
+
 - [webforms-ui](https://github.com/Som-Energia/webforms-ui): 
   [![cypress webforms-ui](https://github.com/Som-Energia/webforms-ui/actions/workflows/cypress.yml/badge.svg)](https://github.com/Som-Energia/webforms-ui/actions/workflows/cypress.yml)
 - 
@@ -64,7 +68,6 @@
 
 ### WebApps
 
-- [webforms](https://github.com/Som-Energia/webforms): testos depenent de la instancia de testing
 - [oficinavirtual](https://github.com/Som-Energia/oficinavirtual): testos depenent de la instancia de testing
 - [oficinavirtual-ui](https://github.com/Som-Energia/oficinavirtual-ui):
 - [infoenergia-dashboard](https://github.com/Som-Energia/infoenergia-dashboard): 
