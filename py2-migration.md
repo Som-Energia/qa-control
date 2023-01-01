@@ -52,6 +52,7 @@ and the required version pinning to get them working.
 'rq<1.4.0', # Py2, indirect amoniak
 'sentry-sdk<1.5', # Py2
 'tqdm<4.63.0', # Py2, depends on import-resources, not supported by py2
+'urllib3<2', # Py2, indirect by request, django, flask...
 'yamlns>=0.3', # Earlier not Py2 compatible
 'zipp<2', # Py2, indirect of pytest
 ```
