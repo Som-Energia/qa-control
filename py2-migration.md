@@ -55,6 +55,7 @@ and the required version pinning to get them working.
 'urllib3<2', # Py2, indirect by request, django, flask...
 'yamlns>=0.3', # Earlier not Py2 compatible
 'zipp<2', # Py2, indirect of pytest
+'rq-scheduler<0.12', # Py2, indirect erp-gisce/addons/base
 ```
 
 ### Annotate your pinned dependencies
