@@ -56,6 +56,7 @@ and the required version pinning to get them working.
 'yamlns>=0.3', # Earlier not Py2 compatible
 'zipp<2', # Py2, indirect of pytest
 'rq-scheduler<0.12', # Py2, indirect erp-gisce/addons/base
+'parameterized<0.9', # Py2
 ```
 
 ### Annotate your pinned dependencies
