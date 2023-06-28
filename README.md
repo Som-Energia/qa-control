@@ -40,6 +40,11 @@
   [![CI Status](https://github.com/Som-Energia/somenergia-tomatic/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/somenergia-tomatic/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/somenergia-tomatic/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/somenergia-tomatic?branch=master)
   testos depenent de erp-testing deshabilitats
+
+- [tomato-cooker](https://github.com/Som-Energia/tomato-cooker):
+  ![PyPI](https://img.shields.io/pypi/v/tomato-cooker)
+  [![CI](https://github.com/Som-Energia/tomato-cooker/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/tomato-cooker/actions/workflows/main.yml)
+
 - 
   [Sermepa](https://github.com/Som-Energia/sermepa):
   [![CI Status](https://github.com/Som-Energia/sermepa/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/sermepa/actions/workflows/main.yml)
