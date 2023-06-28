@@ -44,6 +44,7 @@
 - [tomato-cooker](https://github.com/Som-Energia/tomato-cooker):
   ![PyPI](https://img.shields.io/pypi/v/tomato-cooker)
   [![CI](https://github.com/Som-Energia/tomato-cooker/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/tomato-cooker/actions/workflows/main.yml)
+  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/tomato-cooker/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/tomato-cooker?branch=main)
 
 - 
   [Sermepa](https://github.com/Som-Energia/sermepa):
