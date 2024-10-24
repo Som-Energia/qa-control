@@ -1,32 +1,19 @@
 # Som Energia QA Control Pannel
 
+## WebApps
+
 - [webforms](https://github.com/Som-Energia/webforms): 
-[![CI](https://github.com/Som-Energia/webforms/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/webforms/actions/workflows/main.yml)
+  [![CI](https://github.com/Som-Energia/webforms/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/webforms/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/webforms/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/webforms?branch=main)
 
 - [webforms-ui](https://github.com/Som-Energia/webforms-ui): 
   [![cypress webforms-ui](https://github.com/Som-Energia/webforms-ui/actions/workflows/cypress.yml/badge.svg)](https://github.com/Som-Energia/webforms-ui/actions/workflows/cypress.yml)
-- 
-  [OpenERP Som Add-on's](https://github.com/Som-Energia/openerp_som_addons): 
+
+- [OpenERP Som Add-on's](https://github.com/Som-Energia/openerp_som_addons): 
   [![CI](https://github.com/Som-Energia/openerp_som_addons/actions/workflows/integration_config.yml/badge.svg)](https://github.com/Som-Energia/openerp_som_addons/actions/workflows/integration_config.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/openerp_som_addons/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/openerp_som_addons?branch=main)
--
-  [Generation kWh](https://github.com/Som-Energia/somenergia-generationkwh):
-  [![CI](https://github.com/Som-Energia/somenergia-generationkwh/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/somenergia-generationkwh/actions/workflows/main.yml)
-  [![CircleCI](https://circleci.com/gh/Som-Energia/somenergia-generationkwh.svg?style=svg)](https://circleci.com/gh/Som-Energia/somenergia-generationkwh)
-  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/somenergia-generationkwh/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/somenergia-generationkwh?branch=master)
-  [![PyPI - Downloads](https://img.shields.io/pypi/dm/somenergia-generationkwh)](https://pypi.org/project/somenergia-generationkwh)
--
-  [Plantmeter](https://github.com/Som-Energia/plantmeter):
-  [![CI](https://github.com/Som-Energia/plantmeter/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/plantmeter/actions/workflows/main.yml)
-  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/plantmeter/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/plantmeter?branch=master)
-  [![PyPI - Downloads](https://img.shields.io/pypi/dm/plantmeter)](https://pypi.org/project/plantmeter)
--
-  [Informe OCSUM](https://github.com/Som-Energia/informe-ocsum): 
-  [![CI Status](https://github.com/Som-Energia/informe-ocsum/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/informe-ocsum/actions/workflows/main.yml)
-  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/informe-ocsum/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/informe-ocsum?branch=master)
-- 
-  [OpenData](https://github.com/Som-Energia/somenergia-opendata):
+
+- [OpenData](https://github.com/Som-Energia/somenergia-opendata):
   [![CI Status](https://github.com/Som-Energia/somenergia-opendata/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/somenergia-opendata/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/somenergia-opendata/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/somenergia-opendata?branch=master)
   testos depenent de erp-testing deshabilitats
@@ -45,7 +32,6 @@
   ![PyPI](https://img.shields.io/pypi/v/tomato-cooker)
   [![CI](https://github.com/Som-Energia/tomato-cooker/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/tomato-cooker/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/tomato-cooker/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/tomato-cooker?branch=main)
-
 - 
   [Sermepa](https://github.com/Som-Energia/sermepa):
   [![CI Status](https://github.com/Som-Energia/sermepa/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/sermepa/actions/workflows/main.yml)
@@ -74,10 +60,7 @@
 [![CI](https://github.com/Som-Energia/somrepresenta-oficinavirtual/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/somrepresenta-oficinavirtual/actions/workflows/main.yml)
 [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/somrepresenta-oficinavirtual/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/somrepresenta-oficinavirtual?branch=main)
 
-
-## Not yet under QA
-
-### WebApps
+### Not yet under QA
 
 - [oficinavirtual](https://github.com/Som-Energia/oficinavirtual): testos depenent de la instancia de testing
 - [oficinavirtual-ui](https://github.com/Som-Energia/oficinavirtual-ui):
@@ -85,8 +68,10 @@
 - [infoenergia-api](https://github.com/Som-Energia/infoenergia-api):
 - [infoenergia-scripts](https://github.com/Som-Energia/infoenergia-scripts):
 - [somenergia-infoenergia](https://github.com/Som-Energia/somenergia-infoenergia):
-- [shera](https://github.com/Som-Energia/shera):
 - [somexchanger](https://github.com/Som-Energia/somexchanger99):
+- [decidim-cas-client](https://github.com/Som-Energia/decidim-cas-client):
+- [som-cas](https://github.com/Som-Energia/som-cas):
+- [shera](https://github.com/Som-Energia/shera):
 - [intranet-ui](https://github.com/Som-Energia/intranet-ui):
 - [somenergia-solarprosumers](https://github.com/Som-Energia/somenergia-solarprosumers):
 - [somsolet-ui](https://github.com/Som-Energia/somsolet-ui):
@@ -98,10 +83,31 @@
 - [gestor-absencies](https://github.com/Som-Energia/gestor_absencies)
 - [gestor-absencies-ui](https://github.com/Som-Energia/gestor-absencies-ui):
 - [gestor-absencies-frontend](https://github.com/Som-Energia/gestor_absencies_frontend)
-- [decidim-cas-client](https://github.com/Som-Energia/decidim-cas-client):
-- [som-cas](https://github.com/Som-Energia/som-cas):
 - [codit-devise-cas-authenticate](https://github.com/Som-Energia/codit-devise-cas-authenticable)
 - [somenergia-weblate-scripts](https://github.com/Som-Energia/somenergia-weblate-scripts):
+
+
+### Legacy
+
+
+## ERP
+
+-
+  [Generation kWh](https://github.com/Som-Energia/somenergia-generationkwh):
+  [![CI](https://github.com/Som-Energia/somenergia-generationkwh/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/somenergia-generationkwh/actions/workflows/main.yml)
+  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/somenergia-generationkwh/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/somenergia-generationkwh?branch=master)
+  [![PyPI - Downloads](https://img.shields.io/pypi/dm/somenergia-generationkwh)](https://pypi.org/project/somenergia-generationkwh)
+-
+  [Plantmeter](https://github.com/Som-Energia/plantmeter):
+  [![CI](https://github.com/Som-Energia/plantmeter/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/plantmeter/actions/workflows/main.yml)
+  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/plantmeter/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/plantmeter?branch=master)
+  [![PyPI - Downloads](https://img.shields.io/pypi/dm/plantmeter)](https://pypi.org/project/plantmeter)
+-
+  [Informe OCSUM](https://github.com/Som-Energia/informe-ocsum): 
+  [![CI Status](https://github.com/Som-Energia/informe-ocsum/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/informe-ocsum/actions/workflows/main.yml)
+  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/informe-ocsum/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/informe-ocsum?branch=master)
+
+### Not yet under QA
 
 ### Incubadora
 
