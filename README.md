@@ -56,9 +56,6 @@
   [![Coverage Status](https://coveralls.io/repos/github/GuifiBaix/python-yamlns/badge.svg?branch=master)](https://coveralls.io/github/GuifiBaix/python-yamlns?branch=master)
   [![PyPI - Downloads](https://img.shields.io/pypi/dm/yamlns)](https://pypi.org/project/yamlns)
 
-- [uiqmako-api](https://github.com/Som-Energia/uiqmako-api): [![CI](https://github.com/Som-Energia/uiqmako-api/actions/workflows/integration_config.yml/badge.svg)](https://github.com/Som-Energia/uiqmako-api/actions/workflows/integration_config.yml)
-  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/uiqmako-api/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/uiqmako-api?branch=main)
-
 ### Not yet under QA
 
 - [oficinavirtual](https://github.com/Som-Energia/oficinavirtual): testos depenent de la instancia de testing
@@ -79,6 +76,7 @@
 - [gestor-absencies](https://github.com/Som-Energia/gestor_absencies)
 - [codit-devise-cas-authenticate](https://github.com/Som-Energia/codit-devise-cas-authenticable)
 - [somenergia-weblate-scripts](https://github.com/Som-Energia/somenergia-weblate-scripts):
+- [scriptlauncher](https://github.com/Som-Energia/scriptlauncher)
 
 
 ### Legacy
@@ -111,6 +109,10 @@
   [Informe OCSUM](https://github.com/Som-Energia/informe-ocsum): 
   [![CI Status](https://github.com/Som-Energia/informe-ocsum/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/informe-ocsum/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/informe-ocsum/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/informe-ocsum?branch=master)
+-
+  [uiqmako-api](https://github.com/Som-Energia/uiqmako-api): [![CI](https://github.com/Som-Energia/uiqmako-api/actions/workflows/integration_config.yml/badge.svg)](https://github.com/Som-Energia/uiqmako-api/actions/workflows/integration_config.yml)
+  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/uiqmako-api/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/uiqmako-api?branch=main)
+
 
 ### Not yet under QA
 
@@ -139,7 +141,6 @@
 - [erp-empowering](https://github.com/Som-Energia/erp-empowering) (fork de gisce con cambios nuevos)
 - [pg tools](https://github.com/Som-Energia/pg_tools)
 - [odoo-role](https://github.com/Som-Energia/odoo-role): fork de coopdevs
-- [scriptlauncher](https://github.com/Som-Energia/scriptlauncher)
 - [cchloader](https://github.com/Som-Energia/cchloader):
 - [cchuploader](https://github.com/Som-Energia/cchuploader):
 - [powersms](https://github.com/Som-Energia/powersms):
