@@ -77,7 +77,8 @@
 - [codit-devise-cas-authenticate](https://github.com/Som-Energia/codit-devise-cas-authenticable)
 - [somenergia-weblate-scripts](https://github.com/Som-Energia/somenergia-weblate-scripts):
 - [scriptlauncher](https://github.com/Som-Energia/scriptlauncher)
-
+- [opendata-gapminder](https://github.com/Som-Energia/opendata-gapminder)
+- [opendata-ui](https://github.com/Som-Energia/opendata-ui)
 
 ### Legacy
 
