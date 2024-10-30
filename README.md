@@ -63,6 +63,7 @@
 
 - [oficinavirtual](https://github.com/Som-Energia/oficinavirtual): testos depenent de la instancia de testing
 - [oficinavirtual-ui](https://github.com/Som-Energia/oficinavirtual-ui):
+- [uiqmako-ui](https://github.com/Som-Energia/uiqmako-ui):
 - [infoenergia-dashboard](https://github.com/Som-Energia/infoenergia-dashboard): 
 - [infoenergia-api](https://github.com/Som-Energia/infoenergia-api):
 - [infoenergia-scripts](https://github.com/Som-Energia/infoenergia-scripts):
@@ -70,15 +71,12 @@
 - [somexchanger](https://github.com/Som-Energia/somexchanger99):
 - [decidim-cas-client](https://github.com/Som-Energia/decidim-cas-client):
 - [som-cas](https://github.com/Som-Energia/som-cas):
-- [intranet-ui](https://github.com/Som-Energia/intranet-ui):
 - [somenergia-solarprosumers](https://github.com/Som-Energia/somenergia-solarprosumers):
 - [somsolet-ui](https://github.com/Som-Energia/somsolet-ui):
 - [somsolet-engineering-ui](https://github.com/Som-Energia/somsolet-engineering-ui):
 - [react-wordpress](https://github.com/Som-Energia/react-wordpress):
 - [helpscout-webhooks](https://github.com/Som-Energia/helpscout_webhooks):
 - [gestor-absencies](https://github.com/Som-Energia/gestor_absencies)
-- [gestor-absencies-ui](https://github.com/Som-Energia/gestor-absencies-ui):
-- [gestor-absencies-frontend](https://github.com/Som-Energia/gestor_absencies_frontend)
 - [codit-devise-cas-authenticate](https://github.com/Som-Energia/codit-devise-cas-authenticable)
 - [somenergia-weblate-scripts](https://github.com/Som-Energia/somenergia-weblate-scripts):
 
@@ -86,8 +84,11 @@
 ### Legacy
 
 - [shera](https://github.com/Som-Energia/shera):
-- [webforms-angular](https://github.com/Som-Energia/webforms-angular): deprecat marjorment pero conte el javascript dels comptadors de la web
-- [webforms-mithril](https://github.com/Som-Energia/webforms-mithril): deprecat pero encara conte el gapminder i la lliberia de widgets que cal separar
+- [webforms-angular](https://github.com/Som-Energia/webforms-angular):
+- [webforms-mithril](https://github.com/Som-Energia/webforms-mithril):
+- [intranet-ui](https://github.com/Som-Energia/intranet-ui): Legacy??
+- [gestor-absencies-ui](https://github.com/Som-Energia/gestor-absencies-ui): Legacy??
+- [gestor-absencies-frontend](https://github.com/Som-Energia/gestor_absencies_frontend): Legacy??
 
 
 ## ERP
@@ -127,7 +128,6 @@
 ### ERP
 
 - [oomakotest](https://github.com/Som-Energia/somenergia-oomakotest):
-- [uiqmako-ui](https://github.com/Som-Energia/uiqmako-ui):
 - [somenergia-scripts](https://github.com/Som-Energia/somenergia-scripts)
 - [som-sync-erp](https://github.com/Som-Energia/som_sync_openerp): En procés de migracio a openerp_som_addons
 - [massive-importer](https://github.com/Som-Energia/massive_importer): En procés de creació de módul a openerp_som_addons
