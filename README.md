@@ -30,6 +30,12 @@
   [![CI Status](https://github.com/Som-Energia/somenergia-opendata/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/somenergia-opendata/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/somenergia-opendata/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/somenergia-opendata?branch=master)
   testos depenent de erp-testing deshabilitats
+
+-
+  [opendata-ui](https://github.com/Som-Energia/opendata-ui)
+  [![CI Status](https://github.com/Som-Energia/opendata-ui/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/opendata-ui/actions/workflows/main.yml)
+  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/opendata-ui/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/opendata-ui?branch=main)
+
 - 
   [Intercoop](https://github.com/Som-Energia/intercoop):
   [![CI Status](https://github.com/Som-Energia/intercoop/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/intercoop/actions/workflows/main.yml)
@@ -55,7 +61,7 @@
   [![CI Status](https://github.com/GuifiBaix/python-yamlns/actions/workflows/main.yml/badge.svg)](https://github.com/GuifiBaix/python-yamlns/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/GuifiBaix/python-yamlns/badge.svg?branch=master)](https://coveralls.io/github/GuifiBaix/python-yamlns?branch=master)
   [![PyPI - Downloads](https://img.shields.io/pypi/dm/yamlns)](https://pypi.org/project/yamlns)
-
+  
 ### Not yet under QA
 
 - [oficinavirtual](https://github.com/Som-Energia/oficinavirtual): testos depenent de la instancia de testing
@@ -78,7 +84,6 @@
 - [somenergia-weblate-scripts](https://github.com/Som-Energia/somenergia-weblate-scripts):
 - [scriptlauncher](https://github.com/Som-Energia/scriptlauncher)
 - [opendata-gapminder](https://github.com/Som-Energia/opendata-gapminder)
-- [opendata-ui](https://github.com/Som-Energia/opendata-ui)
 
 ### Legacy
 
