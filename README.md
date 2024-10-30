@@ -70,14 +70,11 @@
 - [somexchanger](https://github.com/Som-Energia/somexchanger99):
 - [decidim-cas-client](https://github.com/Som-Energia/decidim-cas-client):
 - [som-cas](https://github.com/Som-Energia/som-cas):
-- [shera](https://github.com/Som-Energia/shera):
 - [intranet-ui](https://github.com/Som-Energia/intranet-ui):
 - [somenergia-solarprosumers](https://github.com/Som-Energia/somenergia-solarprosumers):
 - [somsolet-ui](https://github.com/Som-Energia/somsolet-ui):
 - [somsolet-engineering-ui](https://github.com/Som-Energia/somsolet-engineering-ui):
 - [react-wordpress](https://github.com/Som-Energia/react-wordpress):
-- [webforms-mithril](https://github.com/Som-Energia/webforms-mithril): deprecat pero encara conte el gapminder i la lliberia de widgets que cal separar
-- [webforms-angular](https://github.com/Som-Energia/webforms-angular): deprecat marjorment pero conte el javascript dels comptadors de la web
 - [helpscout-webhooks](https://github.com/Som-Energia/helpscout_webhooks):
 - [gestor-absencies](https://github.com/Som-Energia/gestor_absencies)
 - [gestor-absencies-ui](https://github.com/Som-Energia/gestor-absencies-ui):
@@ -87,6 +84,10 @@
 
 
 ### Legacy
+
+- [shera](https://github.com/Som-Energia/shera):
+- [webforms-angular](https://github.com/Som-Energia/webforms-angular): deprecat marjorment pero conte el javascript dels comptadors de la web
+- [webforms-mithril](https://github.com/Som-Energia/webforms-mithril): deprecat pero encara conte el gapminder i la lliberia de widgets que cal separar
 
 
 ## ERP
