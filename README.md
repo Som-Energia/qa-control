@@ -7,6 +7,7 @@
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/webforms/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/webforms?branch=main)
 
 - [webforms-ui](https://github.com/Som-Energia/webforms-ui): 
+  [![CI](https://github.com/Som-Energia/webforms-ui/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/webforms-ui/actions/workflows/main.yml)
   [![cypress webforms-ui](https://github.com/Som-Energia/webforms-ui/actions/workflows/cypress.yml/badge.svg)](https://github.com/Som-Energia/webforms-ui/actions/workflows/cypress.yml)
 
 - [somrepresenta-oficinavirtual](https://github.com/Som-Energia/somrepresenta-oficinavirtual):
