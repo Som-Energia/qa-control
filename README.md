@@ -31,11 +31,6 @@
   [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/somenergia-opendata/badge.svg?branch=master)](https://coveralls.io/github/Som-Energia/somenergia-opendata?branch=master)
   testos depenent de erp-testing deshabilitats
 
--
-  [opendata-ui](https://github.com/Som-Energia/opendata-ui)
-  [![CI Status](https://github.com/Som-Energia/opendata-ui/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/opendata-ui/actions/workflows/main.yml)
-  [![Coverage Status](https://coveralls.io/repos/github/Som-Energia/opendata-ui/badge.svg?branch=main)](https://coveralls.io/github/Som-Energia/opendata-ui?branch=main)
-
 - 
   [Intercoop](https://github.com/Som-Energia/intercoop):
   [![CI Status](https://github.com/Som-Energia/intercoop/actions/workflows/main.yml/badge.svg)](https://github.com/Som-Energia/intercoop/actions/workflows/main.yml)
@@ -71,6 +66,7 @@
 - [infoenergia-api](https://github.com/Som-Energia/infoenergia-api):
 - [infoenergia-scripts](https://github.com/Som-Energia/infoenergia-scripts):
 - [somenergia-infoenergia](https://github.com/Som-Energia/somenergia-infoenergia):
+- [opendata-ui](https://github.com/Som-Energia/opendata-ui)
 - [somexchanger](https://github.com/Som-Energia/somexchanger99):
 - [decidim-cas-client](https://github.com/Som-Energia/decidim-cas-client):
 - [som-cas](https://github.com/Som-Energia/som-cas):
