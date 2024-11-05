@@ -59,7 +59,6 @@
   
 ### Not yet under QA
 
-- [helpscout-webhooks](https://github.com/Som-Energia/helpscout_webhooks): testos no en ci
 - [oficinavirtual](https://github.com/Som-Energia/oficinavirtual): testos depenent de la instancia de testing
 - [oficinavirtual-ui](https://github.com/Som-Energia/oficinavirtual-ui):
 - [uiqmako-ui](https://github.com/Som-Energia/uiqmako-ui):
@@ -68,17 +67,18 @@
 - [infoenergia-scripts](https://github.com/Som-Energia/infoenergia-scripts):
 - [somenergia-infoenergia](https://github.com/Som-Energia/somenergia-infoenergia):
 - [react-wordpress](https://github.com/Som-Energia/react-wordpress):
+- [helpscout-webhooks](https://github.com/Som-Energia/helpscout_webhooks): testos no en ci
+- [somenergia-weblate-scripts](https://github.com/Som-Energia/somenergia-weblate-scripts):
 - [scriptlauncher](https://github.com/Som-Energia/scriptlauncher)
 - [opendata-ui](https://github.com/Som-Energia/opendata-ui)
 - [opendata-gapminder](https://github.com/Som-Energia/opendata-gapminder)
 - [somexchanger](https://github.com/Som-Energia/somexchanger99):
 - [decidim-cas-client](https://github.com/Som-Energia/decidim-cas-client):
 - [som-cas](https://github.com/Som-Energia/som-cas):
+- [codit-devise-cas-authenticate](https://github.com/Som-Energia/codit-devise-cas-authenticable)
 - [somsolet-ui](https://github.com/Som-Energia/somsolet-ui):
 - [somsolet-engineering-ui](https://github.com/Som-Energia/somsolet-engineering-ui):
 - [somenergia-solarprosumers](https://github.com/Som-Energia/somenergia-solarprosumers):
-- [codit-devise-cas-authenticate](https://github.com/Som-Energia/codit-devise-cas-authenticable)
-- [somenergia-weblate-scripts](https://github.com/Som-Energia/somenergia-weblate-scripts):
 
 ### Legacy
 
