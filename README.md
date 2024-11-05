@@ -59,6 +59,7 @@
   
 ### Not yet under QA
 
+- [helpscout-webhooks](https://github.com/Som-Energia/helpscout_webhooks): testos no en ci
 - [oficinavirtual](https://github.com/Som-Energia/oficinavirtual): testos depenent de la instancia de testing
 - [oficinavirtual-ui](https://github.com/Som-Energia/oficinavirtual-ui):
 - [uiqmako-ui](https://github.com/Som-Energia/uiqmako-ui):
@@ -66,20 +67,18 @@
 - [infoenergia-api](https://github.com/Som-Energia/infoenergia-api):
 - [infoenergia-scripts](https://github.com/Som-Energia/infoenergia-scripts):
 - [somenergia-infoenergia](https://github.com/Som-Energia/somenergia-infoenergia):
+- [react-wordpress](https://github.com/Som-Energia/react-wordpress):
+- [scriptlauncher](https://github.com/Som-Energia/scriptlauncher)
 - [opendata-ui](https://github.com/Som-Energia/opendata-ui)
+- [opendata-gapminder](https://github.com/Som-Energia/opendata-gapminder)
 - [somexchanger](https://github.com/Som-Energia/somexchanger99):
 - [decidim-cas-client](https://github.com/Som-Energia/decidim-cas-client):
 - [som-cas](https://github.com/Som-Energia/som-cas):
-- [somenergia-solarprosumers](https://github.com/Som-Energia/somenergia-solarprosumers):
 - [somsolet-ui](https://github.com/Som-Energia/somsolet-ui):
 - [somsolet-engineering-ui](https://github.com/Som-Energia/somsolet-engineering-ui):
-- [react-wordpress](https://github.com/Som-Energia/react-wordpress):
-- [helpscout-webhooks](https://github.com/Som-Energia/helpscout_webhooks):
-- [gestor-absencies](https://github.com/Som-Energia/gestor_absencies)
+- [somenergia-solarprosumers](https://github.com/Som-Energia/somenergia-solarprosumers):
 - [codit-devise-cas-authenticate](https://github.com/Som-Energia/codit-devise-cas-authenticable)
 - [somenergia-weblate-scripts](https://github.com/Som-Energia/somenergia-weblate-scripts):
-- [scriptlauncher](https://github.com/Som-Energia/scriptlauncher)
-- [opendata-gapminder](https://github.com/Som-Energia/opendata-gapminder)
 
 ### Legacy
 
@@ -87,6 +86,7 @@
 - [webforms-angular](https://github.com/Som-Energia/webforms-angular):
 - [webforms-mithril](https://github.com/Som-Energia/webforms-mithril):
 - [intranet-ui](https://github.com/Som-Energia/intranet-ui): Legacy??
+- [gestor-absencies](https://github.com/Som-Energia/gestor_absencies): Legacy??
 - [gestor-absencies-ui](https://github.com/Som-Energia/gestor-absencies-ui): Legacy??
 - [gestor-absencies-frontend](https://github.com/Som-Energia/gestor_absencies_frontend): Legacy??
 
