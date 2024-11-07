@@ -60,7 +60,7 @@
 ### Not yet under QA
 
 - [oficinavirtual](https://github.com/Som-Energia/oficinavirtual): testos depenent de la instancia de testing
-- [oficinavirtual-ui](https://github.com/Som-Energia/oficinavirtual-ui):
+- [oficinavirtual-ui](https://github.com/Som-Energia/oficinavirtual-ui): (es un bootstrap de create react app sense mes desenvolupament)
 - [uiqmako-ui](https://github.com/Som-Energia/uiqmako-ui):
 - [infoenergia-dashboard](https://github.com/Som-Energia/infoenergia-dashboard): 
 - [infoenergia-api](https://github.com/Som-Energia/infoenergia-api):
